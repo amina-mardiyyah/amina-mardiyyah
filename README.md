@@ -1,2 +1,18 @@
 # AminahMardiyyahRufai
-About Me/My Portfolio
+**About Me/My Portfolio**
+
+Hi There! I am Aminah Mardiyyah Rufai. I am a datascientist and a Machine Learning Engineer.
+
+__Strong Programming Language:__ Python
+
+__Software/Tools:__ Spreadsheets, Powerbi, Anaconda Packages
+
+* Open to collaborations on Projects
+* Keen to Learn
+* I am currently working on some freelance Projects for personal development
+* How to reach me(amina.rufai@yahoo.com), [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
+
+__FUN FACT__
+* I love reading, sports, meditation, educative games(Scrabble)
+
+
