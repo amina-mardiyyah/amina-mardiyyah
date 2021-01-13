@@ -1,7 +1,11 @@
-# AminahMardiyyahRufai
+# Hi There! I am Aminah Mardiyyah Rufai!!😀
+
+
+
+
 **About Me/My Portfolio**
 
-Hi There! I am Aminah Mardiyyah Rufai. I am a datascientist and a Machine Learning Engineer.
+ I am a datascientist and a Machine Learning Engineer.
 
 __Strong Programming Language:__ Python
 
@@ -13,6 +17,6 @@ __Software/Tools:__ Spreadsheets, Powerbi, Anaconda Packages
 * How to reach me(amina.rufai@yahoo.com), [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
 
 __FUN FACT__
-* I love reading, sports, meditation, educative games(Scrabble)
+* I love reading📘📘, sports⚽, meditation, educative games(Scrabble)
 
 
