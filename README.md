@@ -1,6 +1,6 @@
 # Hi There! I am Aminah Mardiyyah Rufai!!😀
 
-![GitHub Logo](/images/Amina_Passport.jpg)
+#![GitHub Logo](/images/Amina_Passport.jpg)
 
 
 **About Me/My Portfolio**
