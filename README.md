@@ -14,7 +14,7 @@ __Other Interesting information about me:__
 * Core interests in Conversational AI, Speech technologies/Machine Translation and Image segmentation
 * Open to collaborations on Projects
 * Keen to Learn
-* How to reach me(amina.rufai@yahoo.com), [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
+* How to reach me(diyyah.rufai@gmail.com), [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
 * At my spare time, i write articles. Read my articles on [Medium](http://medium.com/@mardiyyah)
 
 __FUN FACT__
