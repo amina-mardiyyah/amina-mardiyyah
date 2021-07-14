@@ -15,7 +15,7 @@ __Other Interesting information about me:__
 * Open to collaborations on Projects
 * Keen to Learn
 * How to reach me(diyyah.rufai@gmail.com), [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
-* At my spare time, i write articles. Read my articles on [Medium](http://medium.com/@mardiyyah)
+* In my spare time, i write articles. Read my articles on [Medium](http://medium.com/@mardiyyah)
 
 __FUN FACT__
 * I love reading📘📘, sports⚽(Running, Martial Arts), meditation(Yoga), educative games(Scrabble), Chess
