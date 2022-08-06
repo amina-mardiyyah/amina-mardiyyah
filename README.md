@@ -5,8 +5,7 @@
 
  I am a Machine Learning Master's student at African Institute for Mathematical Sciences/Machine Intelligence(Facebook and Google Sponsored). I currently work with Data Scientists Network as Solution Analyst. 
  
-__Technologies:__ Python,Spreadsheets, Powerbi, Computer Vision, Natural Language Processing, Machine Translation
-
+__Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
 __Language skils__: English (Fluent in Speech and Writing)
 
 __Other Interesting information about me:__
