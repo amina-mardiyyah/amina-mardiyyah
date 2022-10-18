@@ -8,11 +8,9 @@ I'm a Machine Learning Researcher, currenting intern at the École polytechnique
  
 __Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
 __Language skils__: English (Fluent in Speech and Writing)
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
- [![Linkedin Badge]([https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link][https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i) 
- 
-[![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/diyyah92)](https://twitter.com/diyyah92)
+
+ [![Linkedin Badge]([https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link][https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)[![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/diyyah92)](https://twitter.com/diyyah92)
 
 
 
