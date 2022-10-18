@@ -1,5 +1,5 @@
 # Hi There! I am Aminah Mardiyyah Rufai!!😀
-[![Linkedin Badge](https://img.shields.io/badge/-Fatima-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/) [![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hijabiicoder)](https://twitter.com/diyyah92)
+[![Linkedin Badge](https://img.shields.io/badge/-Aminah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/) [![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hijabiicoder)](https://twitter.com/diyyah92)
 
 **About Me**
 
