@@ -3,8 +3,7 @@
 
 **About Me**
 
- I am a Machine Learning Master's student at African Institute for Mathematical Sciences/Machine Intelligence(Facebook and Google Sponsored). I currently work with Data Scientists Network as Solution Analyst. 
-I'm a Machine Learning Researcher, currenting intern at the École polytechnique fédérale de Lausanne (EPFL), a public research university located in Lausanne, Switzerland. [EPFL](https://www.epfl.ch/en/). My research interests lies in Language Modelling, Automatic Speech Recognition, Conversation AI technologies and Computer Vision for Healthcare/Clinical use-cases.
+I am a Master's student at African Institute for Mathematical Sciences/Machine Intelligence(Meta and Google Sponsored), majoring in Machine Intelligence[AIMS/AMMI](https://www.aimsammi.org). I'm a Researcher, currenting intern at the École polytechnique fédérale de Lausanne (EPFL), a public research university located in Lausanne, Switzerland. [EPFL](https://www.epfl.ch/en/). My research interests lies in Language Modelling, Automatic Speech Recognition, Conversation AI technologies and Computer Vision for Healthcare/Clinical use-cases.
 
 __Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
 __Language skils__: English (Fluent in Speech and Writing)
