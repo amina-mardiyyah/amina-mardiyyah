@@ -1,5 +1,5 @@
 # Hi There! I am Aminah Mardiyyah Rufai!!😀
-
+[![Linkedin Badge](https://img.shields.io/badge/-Fatima-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i/) [![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hijabiicoder)](https://twitter.com/diyyah92)
 
 **About Me**
 
@@ -16,7 +16,7 @@ __Other Interesting information about me:__
 * Keen to Learn
 * [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
 * In my spare time, i write articles, Read my articles on [Medium](http://medium.com/@mardiyyah), and participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
- [![Linkedin Badge](https://img.shields.io/badge/-aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)](https://www.linkedin.com/in/iambolajiayo) [![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/diyyah92)](https://twitter.com/diyyah92)
+ 
 
 
 __FUN FACT__
