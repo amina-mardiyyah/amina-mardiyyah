@@ -8,9 +8,11 @@ I'm a Machine Learning Researcher, currenting intern at the École polytechnique
  
 __Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
 __Language skils__: English (Fluent in Speech and Writing)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-
- [![Linkedin Badge](https://img.shields.io/badge/-aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i) [![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/diyyah92)](https://twitter.com/diyyah92)
+ [![Linkedin Badge]([https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link][https://img.shields.io/badge/aminah-mardiyyah-rufa-i-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminah-mardiyyah-rufa-i)](https://www.linkedin.com/in/aminah-mardiyyah-rufa-i) 
+ 
+[![Twitter Badge](https://img.shields.io/badge/-@diyyah92-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/diyyah92)](https://twitter.com/diyyah92)
 
 
 
@@ -27,6 +29,16 @@ __Language skils__: English (Fluent in Speech and Writing)
 * In my spare time, i write articles, Read my articles on [Medium](http://medium.com/@mardiyyah), and participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminah92&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminah92&theme=merko&langs_count=8&layout=compact&hide_border=true" alt="Aminah's GitHub stats" /> |
-| ------------- | ------------- |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminah92&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminah92&theme=merko&langs_count=8&layout=compact&hide_border=true" alt="Aminah's GitHub stats" /> | -->
+## 💳 Github Profile Summary Card [🔝](#Aminah's Github Profile Summary Card)
+
+| Badge                                                                                                                                  | URL                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aminah92&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
+
+## 📟 GitHub Stats [🔝](#Aminah's Github Stars)
+
+| Badge                                                                                         | URL                                                              |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=Aminah92" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
 
