@@ -3,23 +3,10 @@
 
 **About Me**
 
-I am a Master's student at African Institute for Mathematical Sciences/Machine Intelligence(Meta and Google Sponsored), majoring in Machine Intelligence [AIMS/AMMI](https://www.aimsammi.org). I'm a Researcher, currenting intern at the École polytechnique fédérale de Lausanne (EPFL), a public research university located in Lausanne, Switzerland. [EPFL](https://www.epfl.ch/en/). My research interests lies in Language Modelling, Automatic Speech Recognition, Conversation AI technologies and Computer Vision for Healthcare/Clinical use-cases.
-
-__Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
-__Language skils__: English (Fluent in Speech and Writing)
-
-__Other Interesting information about me:__
-
-* Core interests in Conversational AI, Speech technologies/Machine Translation and Image segmentation
-* Open to collaborations on Projects
-* Keen to Learn
-* [Twitter](http://twitter.com/@diyyah92), [LinkedIn](http://linkedin.com/in/aminah-mardiyyah-rufa-i)
-* In my spare time, i write articles, Read my articles on [Medium](http://medium.com/@mardiyyah), and participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
- 
+I am a Master's student at African Institute for Mathematical Sciences/Machine Intelligence(Meta and Google Sponsored), majoring in Machine Intelligence [AIMS/AMMI](https://www.aimsammi.org). I'm a Researcher, currenting intern at the École polytechnique fédérale de Lausanne (EPFL), a public research university located in Lausanne, Switzerland. [EPFL](https://www.epfl.ch/en/). 
+My **Research interests**: Language Modelling, Automatic Speech Recognition, Conversation AI technologies and Computer Vision for Healthcare/Clinical use-cases.
 
 
-__FUN FACT__
-* I love reading📘📘, sports⚽(Running, Martial Arts), meditation(Yoga), educative games: (Scrabble, Chess)
 
 
 **Here's a quick summary about me**:
@@ -29,9 +16,20 @@ __FUN FACT__
 - I’m currently learning C and working on building my software engineering skills. 
 - I am fluent proficient in Python and building Machine Learning Applications using ScikitLearn, Pytorch. 
 - I have worked on some projects revolving around Automatic Speech Recognition for Low-resource Languages, Machine Translation etc
-- Research interests: Computer Vision
+
+
+__Technologies:__ Python,Pytorch, Automatic Speech Recognition, Machine Translation, Bert, RoBerta, Computer Vision, Machine Learning
+__Language skils__: English (Fluent in Speech and Writing)
+
+__Other Interesting information about me:__
+
 
 * In my spare time, i write articles, Read my articles on [Medium](http://medium.com/@mardiyyah), and participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
+ 
+
+__FUN FACT__
+* I love reading📘📘, sports⚽(Running, Martial Arts), meditation(Yoga), educative games: (Scrabble, Chess)
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminah92&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminah92&langs_count=8&layout=compact&hide_border=true" alt="Aminah's GitHub stats" /> |
