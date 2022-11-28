@@ -13,9 +13,8 @@ My **Research interests**: Language Modelling, Automatic Speech Recognition, Con
 **Here's a quick summary about me**:
 
 - Pronouns: She/her
-- Educatio: Masters in Mathematics [Major in Machine Intelligence](https://aimsammi.org) Class of 2021.
-- I’m currently learning C and working on building my software engineering skills. 
-- I am fluent proficient in Python and building Machine Learning Applications using ScikitLearn, Pytorch. 
+- Education: Masters in Mathematics [Major in Machine Intelligence](https://aimsammi.org) Class of 2021.
+- I am proficient in Python and building Machine Learning Applications using ScikitLearn, Pytorch. 
 - I have worked on some projects revolving around Automatic Speech Recognition for Low-resource Languages, Machine Translation etc
 
 
