@@ -32,5 +32,5 @@ __FUN FACT__
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminah92&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminah92&theme=merko&langs_count=8&layout=compact&hide_border=true" alt="Aminah's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=amina-mardiyyah&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-mardiyyah&theme=merko&langs_count=8&layout=compact&hide_border=true" alt="Aminah's GitHub stats" /> |
 | ------------- | ------------- |
